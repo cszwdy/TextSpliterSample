@@ -1,0 +1,2 @@
+/Users/Emiaostein/Library/Developer/Xcode/DerivedData/TextSpliteSample-eblfoaxtjadybfbtalkqmrhhnqip/Build/Products/Debug-iphonesimulator/TextSpliteSample.app
+
